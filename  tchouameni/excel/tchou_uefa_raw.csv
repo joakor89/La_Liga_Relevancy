@@ -1,0 +1,18 @@
+﻿match,competition,date,position,minutes played,total_actions,total_actions_successful,total_actions_percent,goals,assists,shots,shots_on_targer,shots_on_target_percent,xG,passes,passes_accurate,pass_accuracy_percent,long_passes,long_passes_accurate,long_passes_percent,crosses,crosses_accurate,crosses_percent,dribbles,dribbles_successful,dribbles_percent,duels,duels_won,duels_percent,aerial_duels,aerials_duels_won,aerial_duels_percent,interceptions,losses,losses_own_half,losses_percent,recoveries,recoveries_opp_half,recoveries_percent,Yellow card,Red card
+Sporting Braga - Real Madrid 1:2,Europe. UEFA Champions League,10/24/23,LCMF,24,14,11,79,0,0,0,0,0,0,8,7,88,0,0,0,0,0,0,0,0,0,3,3,100,3,3,100,2,4,2,50,2,1,50,0,0
+Napoli - Real Madrid 2:3,Europe. UEFA Champions League,10/3/23,"DMF, LCMF",96,81,68,84,0,0,2,0,0,0.14,63,60,95,0,0,0,1,1,100,0,0,0,11,8,73,7,7,100,3,6,2,33,5,3,60,0,0
+Real Madrid - Union Berlin 1:0,Europe. UEFA Champions League,9/20/23,DMF,67,94,83,88,0,0,2,0,0,0.01,83,79,95,4,3,75,2,0,0,0,0,0,5,3,60,2,1,50,1,4,0,0,7,4,57,37,0
+Manchester City - Real Madrid 4:0,Europe. UEFA Champions League,5/17/23,RDMF,14,15,12,80,0,0,0,0,0,0,14,11,79,1,1,100,1,0,0,0,0,0,1,1,100,0,0,0,1,3,0,0,1,1,100,0,0
+Real Madrid - Manchester City 1:1,Europe. UEFA Champions League,5/9/23,DMF,10,12,9,75,0,0,1,1,100,0.04,9,8,89,0,0,0,0,0,0,0,0,0,2,0,0,2,0,0,0,1,0,0,1,0,0,0,0
+Chelsea - Real Madrid 0:2,Europe. UEFA Champions League,4/18/23,DMF,23,17,14,82,0,0,0,0,0,0,13,12,92,0,0,0,0,0,0,0,0,0,2,1,50,0,0,0,1,1,0,0,1,1,100,0,0
+Real Madrid - Chelsea 2:0,Europe. UEFA Champions League,4/12/23,DMF,11,13,10,77,0,0,0,0,0,0,10,10,100,0,0,0,0,0,0,0,0,0,2,0,0,1,0,0,1,1,1,100,2,1,50,0,0
+Real Madrid - Liverpool 1:0,Europe. UEFA Champions League,3/15/23,DMF,11,7,5,71,0,0,0,0,0,0,4,4,100,0,0,0,0,0,0,0,0,0,2,1,50,0,0,0,0,0,0,0,1,0,0,0,0
+RB Leipzig - Real Madrid 3:2,Europe. UEFA Champions League,10/25/22,"DMF, RDMF",94,98,81,83,0,0,2,0,0,0.42,68,67,99,2,2,100,0,0,0,1,0,0,25,13,52,3,2,67,3,6,4,67,13,5,38,0,0
+Shakhtar Donetsk - Real Madrid 1:1,Europe. UEFA Champions League,10/11/22,RDMF,57,69,55,80,0,0,1,0,0,0.18,51,47,92,2,1,50,0,0,0,0,0,0,14,8,57,3,2,67,2,7,3,43,3,3,100,0,0
+Real Madrid - Shakhtar Donetsk 2:1,Europe. UEFA Champions League,10/5/22,DMF,76,77,69,90,0,0,2,1,50,0.1,61,59,97,2,2,100,0,0,0,0,0,0,9,7,78,3,3,100,2,3,1,33,5,4,80,0,0
+Real Madrid - RB Leipzig 2:0,Europe. UEFA Champions League,9/14/22,DMF,94,79,61,77,0,0,0,0,0,0,58,52,90,6,5,83,0,0,0,2,1,50,13,7,54,2,0,0,7,10,6,60,12,5,42,0,0
+Celtic - Real Madrid 0:3,Europe. UEFA Champions League,9/6/22,DMF,71,89,71,80,0,0,1,0,0,0,72,64,89,2,2,100,0,0,0,1,1,100,11,7,64,1,0,0,7,6,1,17,10,3,30,0,0
+Shakhtar Donetsk - Monaco 2:2 (E),Europe. UEFA Champions League,8/25/21,DMF,123,101,72,71,0,0,2,0,0,0.23,61,54,89,4,2,50,4,2,50,4,4,100,27,17,63,2,2,100,3,8,1,13,11,5,45,0,0
+Monaco - Shakhtar Donetsk 0:1,Europe. UEFA Champions League,8/17/21,DMF,95,79,55,70,0,0,3,2,67,0.1,43,39,91,1,0,0,1,1,100,1,0,0,27,14,52,4,2,50,4,6,3,50,9,7,78,0,0
+Monaco - Sparta Praha 3:1,Europe. UEFA Champions League,8/10/21,LCMF,61,75,53,71,0,0,2,0,0,0.18,38,36,95,1,0,0,0,0,0,3,2,67,22,16,73,2,1,50,4,5,1,20,9,3,33,49,0
+Sparta Praha - Monaco 0:2,Europe. UEFA Champions League,8/3/21,LCMF,97,89,66,74,1,0,1,1,100,0.15,55,49,89,2,1,50,1,1,100,1,0,0,19,13,68,3,3,100,9,6,1,17,21,7,33,83,0

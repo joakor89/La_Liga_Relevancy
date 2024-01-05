@@ -1,0 +1,17 @@
+﻿match,competition,date,position,minutes_played,total_actions,total_actions_successful,total_actions_percent,goals,assists,shots,shots_on_target,shots_percent,xG,passes,passes_accurate,passes_percent,long_passes,long_passes_accurate,long_passes_percent,crosses,crosses_accurate,crosses_percent,dribbles,dribbles_successful,dribbles_percent,duels,duels_won,duels_percent,aerial_duels,aerial_duels_won,aerial_duels_percent,interceptions,losses,losses_own_half,losses_percent,recoveries,recoveries_opp_half,recoveries_percent
+Deportivo Alavés - Real Madrid 0:1,Spain. LaLiga,12/21/23,LW,99,101,65,64,0,0,0,0,0,0,49,46,94,0,0,0,2,0,0,6,4,67,31,16,52,9,4,44,6,11,3,27,7,3,43
+Real Madrid - Villarreal 4:1,Spain. LaLiga,12/17/23,LW,84,88,62,70,1,0,3,2,67,0.54,60,50,83,1,1,100,4,1,25,5,3,60,21,9,43,0,0,0,2,11,3,27,3,3,100
+Real Betis - Real Madrid 1:1,Spain. LaLiga,12/9/23,"AMF, LAMF, LW",98,111,82,74,1,0,3,1,33,0.18,77,68,88,3,2,67,2,2,100,9,5,56,24,13,54,2,2,100,8,15,2,13,12,6,50
+Real Madrid - Granada 2:0,Spain. LaLiga,12/2/23,"LW, CF",99,108,82,76,0,0,2,1,50,0.43,77,72,94,6,6,100,1,0,0,0,0,0,18,7,39,3,0,0,2,9,1,11,5,5,100
+Cádiz - Real Madrid 0:3,Spain. LaLiga,11/26/23,LW,82,98,75,77,1,0,2,1,50,0.33,62,60,97,0,0,0,1,0,0,5,3,60,27,12,44,1,1,100,0,6,2,33,6,5,83
+Real Madrid - Rayo Vallecano 0:0,Spain. LaLiga,11/5/23,LW,102,111,74,67,0,0,3,0,0,0.17,62,56,90,3,2,67,0,0,0,7,5,71,31,15,48,2,1,50,5,13,2,15,10,7,70
+Barcelona - Real Madrid 1:2,Spain. LaLiga,10/28/23,LW,98,91,56,62,2,0,2,2,100,0.56,46,44,96,1,1,100,0,0,0,4,0,0,28,9,32,4,2,50,6,10,3,30,6,2,33
+Sevilla - Real Madrid 1:1,Spain. LaLiga,10/21/23,AMF,103,77,46,60,0,0,1,0,0,0.04,37,31,84,2,2,100,1,0,0,6,5,83,25,13,52,3,2,67,5,14,6,43,5,2,40
+Real Madrid - Osasuna 4:0,Spain. LaLiga,10/7/23,LW,73,87,58,67,2,0,3,2,67,0.47,56,49,88,2,1,50,4,0,0,4,2,50,18,7,39,0,0,0,5,7,1,14,4,2,50
+Girona - Real Madrid 0:3,Spain. LaLiga,9/30/23,LW,78,87,59,68,1,1,5,3,60,1.88,45,44,98,2,2,100,1,0,0,7,4,57,26,10,38,0,0,0,4,6,2,33,6,3,50
+Atlético Madrid - Real Madrid 3:1,Spain. LaLiga,9/24/23,"AMF, CF",101,87,58,67,0,0,1,0,0,0.09,50,44,88,0,0,0,2,0,0,8,6,75,20,12,60,1,1,100,2,9,2,22,3,2,67
+Real Madrid - Real Sociedad 2:1,Spain. LaLiga,9/17/23,"AMF, CF",98,71,52,73,0,0,3,3,100,0.32,39,34,87,1,1,100,0,0,0,2,1,50,24,15,63,6,2,33,0,12,1,8,4,2,50
+Real Madrid - Getafe 2:1,Spain. LaLiga,9/2/23,AMF,106,99,65,66,1,0,1,1,100,0.82,58,50,86,4,1,25,3,1,33,4,4,100,28,13,46,3,1,33,1,13,3,23,6,3,50
+Celta de Vigo - Real Madrid 0:1,Spain. LaLiga,8/25/23,"AMF, CF",103,82,52,63,1,0,1,1,100,0.28,43,40,93,0,0,0,0,0,0,5,1,20,25,10,40,6,0,0,2,10,3,30,2,1,50
+Almería - Real Madrid 1:3,Spain. LaLiga,8/19/23,AMF,87,69,49,71,2,1,6,4,67,1,45,41,91,1,1,100,0,0,0,2,1,50,10,3,30,1,0,0,1,5,1,20,2,2,100
+Athletic Bilbao - Real Madrid 0:2,Spain. LaLiga,8/12/23,"AMF, LW",99,90,58,64,1,0,2,1,50,0.48,51,42,82,2,0,0,3,1,33,6,4,67,21,13,62,2,0,0,7,19,4,21,10,4,40

@@ -1,0 +1,120 @@
+﻿match,competition,date,position,minutes_played,total_actions,total_actions_successful,total_actions_percent,goals,assists,shots,shots_on_target,shots_percent,xG,passes,passes_accurate,passes_percent,long_passes,long_passes_accurate,long_passes_percent,crosses,crosses_accurate,crosses_percent,dribbles,dribbles_successful,dribbles_percent,duels,duels_won,duels_percent,aerial_duels,aerial_duels_won,aerial_duels_percent,interceptions,losses,losses_own_half,losses_percent,recoveries,recoveries_opp_half,recoveries_percent
+Real Madrid - Napoli 4:2,Europe. UEFA Champions League,11/29/23,"CF, LW",102,112,84,75,1,1,2,2,100,0.36,72,65,90,3,2,67,6,2,33,9,6,67,35,17,49,1,1,100,1,9,3,33,4,3,75
+Sporting Braga - Real Madrid 1:2,Europe. UEFA Champions League,10/24/23,"LW, CF",89,71,47,66,1,0,3,2,67,0.2,50,41,82,4,4,100,3,1,33,0,0,0,8,4,50,0,0,0,3,11,3,27,5,4,80
+Napoli - Real Madrid 2:3,Europe. UEFA Champions League,10/3/23,"AMF, LW",96,94,62,66,1,1,4,2,50,1.27,54,50,93,1,1,100,0,0,0,4,1,25,17,7,41,1,1,100,5,12,3,25,6,2,33
+Real Madrid - Union Berlin 1:0,Europe. UEFA Champions League,9/20/23,AMF,97,104,70,67,1,0,3,1,33,0.9,68,59,87,6,4,67,2,1,50,5,3,60,20,10,50,2,1,50,1,15,3,20,4,3,75
+Borussia Dortmund - Borussia M'gladbach 5:2,Germany. Bundesliga,5/13/23,"LDMF, RDMF",97,106,69,65,1,0,5,2,40,1.29,56,51,91,9,7,78,2,1,50,9,5,56,30,13,43,2,1,50,3,10,2,20,9,2,22
+Borussia Dortmund - Wolfsburg 6:0,Germany. Bundesliga,5/7/23,RDMF,92,96,67,70,2,0,4,2,50,0.44,60,53,88,6,4,67,3,1,33,5,2,40,17,8,47,4,3,75,5,11,3,27,5,2,40
+Bochum - Borussia Dortmund 1:1,Germany. Bundesliga,4/28/23,"AMF, RCMF3",100,81,47,58,0,0,4,2,50,0.4,39,29,74,3,2,67,5,1,20,11,9,82,29,13,45,3,0,0,4,14,5,36,7,4,57
+Borussia Dortmund - Eintracht Frankfurt 4:0,Germany. Bundesliga,4/22/23,RDMF,79,63,38,60,1,0,3,2,67,0.29,35,28,80,5,5,100,1,0,0,7,2,29,18,6,33,0,0,0,6,8,4,50,8,5,63
+Stuttgart - Borussia Dortmund 3:3,Germany. Bundesliga,4/15/23,RCMF,101,111,75,68,0,0,1,0,0,0.29,74,63,85,8,4,50,1,1,100,3,1,33,19,10,53,3,1,33,7,18,4,22,12,8,67
+Borussia Dortmund - Union Berlin 2:1,Germany. Bundesliga,4/8/23,RCMF3,98,114,73,64,0,0,2,0,0,0.02,71,62,87,4,2,50,2,1,50,4,2,50,24,9,38,3,1,33,4,17,4,24,6,5,83
+Bayern München - Borussia Dortmund 4:2,Germany. Bundesliga,4/1/23,"AMF, RCMF3",97,99,58,59,0,0,0,0,0,0,52,46,88,4,3,75,0,0,0,5,3,60,23,9,39,2,0,0,1,9,3,33,7,6,86
+Borussia Dortmund - Köln 6:1,Germany. Bundesliga,3/18/23,RCMF3,92,88,62,70,0,0,0,0,0,0,58,54,93,6,5,83,2,2,100,6,2,33,23,7,30,1,1,100,1,8,2,25,7,4,57
+Schalke 04 - Borussia Dortmund 2:2,Germany. Bundesliga,3/11/23,"LCMF3, RWF",94,105,75,71,0,0,2,1,50,0.07,66,55,83,6,2,33,0,0,0,6,4,67,29,16,55,3,2,67,0,21,3,14,4,2,50
+Chelsea - Borussia Dortmund 2:0,Europe. UEFA Champions League,3/7/23,RCMF,101,92,53,58,0,0,3,0,0,0.7,39,30,77,5,4,80,2,0,0,11,4,36,43,23,53,9,6,67,0,17,4,24,11,5,45
+Borussia Dortmund - RB Leipzig 2:1,Germany. Bundesliga,3/3/23,RCMF,98,62,31,50,0,1,1,0,0,0.14,25,19,76,4,3,75,0,0,0,1,0,0,23,12,52,3,1,33,2,8,4,50,2,0,0
+Hoffenheim - Borussia Dortmund 0:1,Germany. Bundesliga,2/25/23,"AMF, RCMF, RW",102,92,59,64,0,0,3,2,67,0.25,40,34,85,5,5,100,1,1,100,11,8,73,29,16,55,7,2,29,3,11,4,36,5,3,60
+Borussia Dortmund - Hertha BSC 4:1,Germany. Bundesliga,2/19/23,LCMF,30,25,12,48,0,0,1,0,0,0.16,7,5,71,0,0,0,0,0,0,3,3,100,6,5,83,0,0,0,6,3,0,0,5,3,60
+Borussia Dortmund - Chelsea 1:0,Europe. UEFA Champions League,2/15/23,RCMF,95,83,48,58,0,0,1,0,0,0,45,37,82,4,1,25,0,0,0,4,2,50,20,9,45,5,2,40,7,16,4,25,4,2,50
+Werder Bremen - Borussia Dortmund 0:2,Germany. Bundesliga,2/11/23,"AMF, LAMF, RCMF",100,93,56,60,0,0,4,2,50,0.59,43,36,84,3,2,67,2,1,50,14,9,64,29,14,48,1,0,0,5,10,1,10,4,3,75
+Borussia Dortmund - Freiburg 5:1,Germany. Bundesliga,2/4/23,RCMF3,72,83,53,64,0,1,1,0,0,0.11,54,51,94,6,4,67,1,0,0,6,1,17,13,2,15,1,0,0,2,7,1,14,3,3,100
+Bayer Leverkusen - Borussia Dortmund 0:2,Germany. Bundesliga,1/29/23,"RCMF, RCMF3",95,94,47,50,0,0,1,0,0,0.15,43,34,79,5,2,40,0,0,0,6,3,50,34,12,35,7,3,43,3,16,2,13,7,4,57
+Borussia Dortmund - Augsburg 4:3,Germany. Bundesliga,1/22/23,"LCMF, RCMF",99,127,84,66,1,1,2,1,50,0.18,69,57,83,6,4,67,2,0,0,18,11,61,41,21,51,5,1,20,6,18,6,33,7,2,29
+Borussia M'gladbach - Borussia Dortmund 4:2,Germany. Bundesliga,11/11/22,RDMF,97,109,82,75,0,1,0,0,0,0,70,65,93,11,10,91,0,0,0,1,0,0,31,16,52,3,2,67,3,13,3,23,10,7,70
+Wolfsburg - Borussia Dortmund 2:0,Germany. Bundesliga,11/8/22,"LCMF, RDMF",98,109,78,72,0,0,2,1,50,0.05,78,62,79,4,3,75,3,1,33,6,4,67,19,12,63,3,2,67,11,19,4,21,11,7,64
+Borussia Dortmund - Bochum 3:0,Germany. Bundesliga,11/5/22,RDMF,96,73,38,52,0,0,0,0,0,0,35,29,83,3,2,67,0,0,0,3,1,33,25,8,32,5,2,40,6,18,10,56,4,1,25
+Eintracht Frankfurt - Borussia Dortmund 1:2,Germany. Bundesliga,10/29/22,"AMF, RCMF, RDMF",97,79,38,48,1,0,2,1,50,0.14,31,21,68,6,4,67,0,0,0,4,3,75,32,15,47,3,2,67,8,18,5,28,6,3,50
+Borussia Dortmund - Manchester City 0:0,Europe. UEFA Champions League,10/25/22,RCMF3,94,64,41,64,0,0,0,0,0,0,33,32,97,1,1,100,0,0,0,3,1,33,18,7,39,2,1,50,7,4,3,75,7,0,0
+Borussia Dortmund - Stuttgart 5:0,Germany. Bundesliga,10/22/22,RCMF,92,119,88,74,2,0,4,2,50,0.79,73,64,88,5,3,60,1,0,0,8,3,38,34,22,65,4,3,75,6,15,6,40,12,9,75
+Union Berlin - Borussia Dortmund 2:0,Germany. Bundesliga,10/16/22,"AMF, RDMF",95,106,65,61,0,0,2,1,50,0.17,62,50,81,5,3,60,2,0,0,6,4,67,26,10,38,3,0,0,1,14,2,14,6,4,67
+Borussia Dortmund - Sevilla 1:1,Europe. UEFA Champions League,10/11/22,RCMF3,94,103,55,53,1,0,2,1,50,0.25,58,45,78,6,1,17,3,1,33,4,2,50,25,8,32,2,1,50,4,20,4,20,3,2,67
+Borussia Dortmund - Bayern München 2:2,Germany. Bundesliga,10/8/22,"RCMF, RCMF3",98,86,44,51,0,0,0,0,0,0,43,33,77,2,2,100,1,0,0,7,2,29,26,11,42,4,2,50,6,20,8,40,6,3,50
+Sevilla - Borussia Dortmund 1:4,Europe. UEFA Champions League,10/5/22,RCMF3,97,83,56,67,1,1,2,1,50,0.1,47,40,85,3,2,67,0,0,0,4,3,75,23,13,57,3,0,0,6,12,4,33,7,1,14
+Köln - Borussia Dortmund 3:2,Germany. Bundesliga,10/1/22,"AMF, LDMF",96,68,49,72,0,0,2,1,50,0.16,38,33,87,6,3,50,1,1,100,2,1,50,22,12,55,3,1,33,0,9,2,22,2,0,0
+Borussia Dortmund - Schalke 04 1:0,Germany. Bundesliga,9/17/22,"RCMF3, RDMF",98,115,61,53,0,0,4,1,25,0.43,59,46,78,4,2,50,2,0,0,5,4,80,34,13,38,6,2,33,6,13,3,23,8,3,38
+Manchester City - Borussia Dortmund 2:1,Europe. UEFA Champions League,9/14/22,"RCMF3, RW",94,70,33,47,1,0,1,1,100,0.14,32,24,75,5,3,60,0,0,0,5,3,60,16,7,44,0,0,0,9,9,4,44,8,2,25
+RB Leipzig - Borussia Dortmund 3:0,Germany. Bundesliga,9/10/22,"RCMF, RDMF",92,82,55,67,0,0,0,0,0,0,42,35,83,6,4,67,1,0,0,8,8,100,28,19,68,1,0,0,7,14,2,14,12,8,67
+Borussia Dortmund - København 3:0,Europe. UEFA Champions League,9/6/22,RDMF,94,115,82,71,1,0,1,1,100,0.26,77,68,88,5,4,80,1,0,0,5,1,20,26,13,50,6,3,50,8,17,5,29,11,4,36
+Borussia Dortmund - Hoffenheim 1:0,Germany. Bundesliga,9/2/22,"RCMF, RCMF3",95,82,45,55,0,0,2,1,50,0.36,41,34,83,4,2,50,0,0,0,5,1,20,20,7,35,2,2,100,9,9,4,44,7,1,14
+Hertha BSC - Borussia Dortmund 0:1,Germany. Bundesliga,8/27/22,"RCMF, RDMF",95,98,64,65,0,0,4,1,25,0.73,49,42,86,5,3,60,1,1,100,3,1,33,34,17,50,6,5,83,3,14,1,7,7,1,14
+Borussia Dortmund - Werder Bremen 2:3,Germany. Bundesliga,8/20/22,RDMF,100,72,47,65,0,0,0,0,0,0,40,34,85,1,0,0,2,0,0,2,2,100,17,11,65,1,1,100,8,11,1,9,9,3,33
+Freiburg - Borussia Dortmund 1:3,Germany. Bundesliga,8/12/22,"LCMF, LDMF, RDMF",93,95,68,72,0,0,3,1,33,0.23,52,43,83,2,0,0,1,0,0,10,10,100,27,17,63,1,0,0,3,12,7,58,6,3,50
+Borussia Dortmund - Bayer Leverkusen 1:0,Germany. Bundesliga,8/6/22,LCMF,98,98,64,65,0,0,3,1,33,0.12,47,41,87,2,1,50,0,0,0,5,3,60,38,18,47,3,1,33,6,6,1,17,16,10,63
+Borussia Dortmund - Hertha BSC 2:1,Germany. Bundesliga,5/14/22,LCMF,102,102,61,60,0,1,1,0,0,0.01,54,45,83,3,1,33,1,0,0,8,3,38,31,16,52,5,2,40,3,12,3,25,11,3,27
+Greuther Fürth - Borussia Dortmund 1:3,Germany. Bundesliga,5/7/22,LCMF,94,96,59,61,0,0,0,0,0,0,57,46,81,3,2,67,0,0,0,6,2,33,21,11,52,0,0,0,6,13,2,15,8,2,25
+Borussia Dortmund - Bochum 3:4,Germany. Bundesliga,4/30/22,LDMF,96,76,51,67,0,0,2,1,50,0.18,49,40,82,3,2,67,3,1,33,0,0,0,18,9,50,4,2,50,5,13,2,15,9,5,56
+Bayern München - Borussia Dortmund 3:1,Germany. Bundesliga,4/23/22,LDMF,96,74,36,49,0,0,1,0,0,0.02,39,29,74,3,1,33,2,0,0,3,0,0,17,4,24,4,1,25,10,10,4,40,12,4,33
+Borussia Dortmund - Wolfsburg 6:1,Germany. Bundesliga,4/16/22,"DMF, LCMF",91,113,79,70,0,0,1,0,0,0.18,72,61,85,4,1,25,0,0,0,3,1,33,28,16,57,0,0,0,6,14,6,43,8,4,50
+Stuttgart - Borussia Dortmund 0:2,Germany. Bundesliga,4/8/22,"LCMF, LDMF, RCMF",98,107,65,61,0,0,1,0,0,0.03,58,52,90,4,4,100,0,0,0,5,3,60,30,9,30,1,0,0,6,10,3,30,9,2,22
+Borussia Dortmund - RB Leipzig 1:4,Germany. Bundesliga,4/2/22,"LCMF, LCMF3",95,115,77,67,0,0,1,0,0,0.02,72,59,82,5,1,20,1,0,0,9,7,78,31,17,55,2,0,0,3,11,3,27,6,4,67
+Köln - Borussia Dortmund 1:1,Germany. Bundesliga,3/20/22,LCMF,95,72,34,47,0,1,1,0,0,0.01,28,21,75,3,3,100,1,0,0,6,2,33,26,9,35,1,1,100,5,11,4,36,3,2,67
+Mainz 05 - Borussia Dortmund 0:1,Germany. Bundesliga,3/16/22,LCMF,99,85,38,45,0,0,2,0,0,0.39,30,22,73,3,2,67,0,0,0,4,4,100,29,15,52,3,0,0,6,14,4,29,6,4,67
+Borussia Dortmund - Arminia Bielefeld 1:0,Germany. Bundesliga,3/13/22,"AMF, LAMF",97,90,42,47,0,0,3,0,0,0.26,40,29,73,4,2,50,0,0,0,7,2,29,17,7,41,1,1,100,4,17,8,47,2,2,100
+Augsburg - Borussia Dortmund 1:1,Germany. Bundesliga,2/27/22,"AMF, LCMF",95,88,46,52,0,0,0,0,0,0,42,38,90,5,4,80,1,1,100,2,1,50,26,6,23,2,0,0,3,9,4,44,1,1,100
+Borussia Dortmund - Borussia M'gladbach 6:0,Germany. Bundesliga,2/20/22,LCMF,96,84,56,67,0,0,0,0,0,0,50,45,90,4,0,0,0,0,0,3,1,33,18,8,44,0,0,0,7,11,6,55,5,1,20
+Union Berlin - Borussia Dortmund 0:3,Germany. Bundesliga,2/13/22,LAMF,96,92,55,60,0,0,1,0,0,0.06,45,42,93,3,2,67,0,0,0,5,1,20,30,11,37,2,1,50,1,12,5,42,3,2,67
+Borussia Dortmund - Bayer Leverkusen 2:5,Germany. Bundesliga,2/6/22,LCMF3,95,101,63,62,0,0,4,2,50,0.18,61,51,84,4,2,50,1,0,0,10,4,40,23,9,39,2,1,50,1,13,3,23,3,2,67
+Hoffenheim - Borussia Dortmund 2:3,Germany. Bundesliga,1/22/22,"LCMF3, LWF, RWF",99,78,38,49,0,0,0,0,0,0,34,29,85,2,1,50,0,0,0,1,1,100,18,9,50,1,1,100,3,11,5,45,3,1,33
+Borussia Dortmund - Freiburg 5:1,Germany. Bundesliga,1/14/22,LCMF3,86,103,66,64,0,1,1,0,0,0.09,54,48,89,4,3,75,2,1,50,3,1,33,35,18,51,6,3,50,3,7,0,0,2,1,50
+Eintracht Frankfurt - Borussia Dortmund 2:3,Germany. Bundesliga,1/8/22,"LCMF3, LDMF",97,83,57,69,1,0,2,1,50,0.14,50,42,84,2,2,100,1,0,0,9,5,56,24,12,50,1,1,100,2,13,3,23,5,4,80
+Borussia Dortmund - Greuther Fürth 3:0,Germany. Bundesliga,12/15/21,LDMF,48,46,31,67,0,0,0,0,0,0,31,28,90,2,2,100,1,1,100,2,1,50,12,2,17,4,1,25,1,7,2,29,1,1,100
+Bochum - Borussia Dortmund 1:1,Germany. Bundesliga,12/11/21,"RAMF, RCMF",96,89,48,54,0,0,6,2,33,0.74,31,29,94,0,0,0,0,0,0,8,5,63,32,16,50,4,1,25,4,10,2,20,4,3,75
+Borussia Dortmund - Beşiktaş 5:0,Europe. UEFA Champions League,12/7/21,RCMF3,75,106,68,64,0,1,4,0,0,0.46,64,54,84,1,1,100,1,0,0,8,4,50,26,12,46,4,2,50,1,11,0,0,6,4,67
+Borussia Dortmund - Bayern München 2:3,Germany. Bundesliga,12/4/21,"LAMF, RDMF",101,103,58,56,0,2,3,0,0,0.43,42,36,86,6,5,83,0,0,0,8,6,75,34,19,56,5,2,40,7,13,6,46,6,3,50
+Sporting CP - Borussia Dortmund 3:1,Europe. UEFA Champions League,11/24/21,"LCMF, LDMF, RDMF",98,111,72,65,0,0,3,1,33,0.2,57,51,89,4,4,100,0,0,0,9,5,56,33,17,52,4,2,50,5,13,5,38,9,5,56
+Borussia Dortmund - Stuttgart 2:1,Germany. Bundesliga,11/20/21,LCMF,94,101,64,63,0,0,1,0,0,0.36,54,45,83,1,1,100,2,0,0,6,5,83,33,18,55,5,2,40,4,15,4,27,4,2,50
+RB Leipzig - Borussia Dortmund 2:1,Germany. Bundesliga,11/6/21,LCMF,97,83,46,55,0,0,2,0,0,0.51,39,29,74,2,1,50,1,0,0,1,1,100,21,13,62,6,3,50,2,11,4,36,12,5,42
+Borussia Dortmund - Ajax 1:3,Europe. UEFA Champions League,11/3/21,"LCMF, LCMF3",97,80,37,46,0,0,3,0,0,0.16,21,15,71,1,0,0,1,1,100,9,7,78,34,18,53,4,3,75,5,10,4,40,11,7,64
+Borussia Dortmund - Köln 2:0,Germany. Bundesliga,10/30/21,"LDMF, RCMF, RDMF",95,90,47,52,0,1,0,0,0,0,36,29,81,3,0,0,1,1,100,4,1,25,30,17,57,2,1,50,10,16,9,56,8,2,25
+Arminia Bielefeld - Borussia Dortmund 1:3,Germany. Bundesliga,10/23/21,LCMF,99,95,59,62,1,0,2,2,100,0.27,49,44,90,0,0,0,0,0,0,8,4,50,30,12,40,1,0,0,5,12,6,50,5,1,20
+Ajax - Borussia Dortmund 4:0,Europe. UEFA Champions League,10/19/21,"AMF, RCMF3",94,62,38,61,0,0,2,1,50,0.05,34,28,82,1,0,0,2,1,50,0,0,0,14,7,50,1,1,100,4,7,3,43,6,4,67
+Borussia Dortmund - Mainz 05 3:1,Germany. Bundesliga,10/16/21,"LCMF, LCMF3",97,93,60,65,0,1,1,1,100,0.61,49,44,90,1,1,100,0,0,0,5,4,80,34,15,44,5,0,0,5,12,3,25,8,6,75
+Borussia Dortmund - Augsburg 2:1,Germany. Bundesliga,10/2/21,"LCMF, RDMF",93,78,60,77,0,0,2,1,50,0.22,46,44,96,2,1,50,0,0,0,5,3,60,22,12,55,6,4,67,3,7,2,29,12,3,25
+Borussia Dortmund - Sporting CP 1:0,Europe. UEFA Champions League,9/28/21,"LCMF3, RCMF3",95,87,48,55,0,1,0,0,0,0,50,42,84,1,1,100,1,0,0,3,1,33,24,6,25,4,1,25,4,10,0,0,6,3,50
+Borussia M'gladbach - Borussia Dortmund 1:0,Germany. Bundesliga,9/25/21,"RCMF, RCMF3",99,86,49,57,0,0,1,0,0,0.01,38,31,82,2,1,50,1,0,0,6,5,83,30,17,57,2,1,50,5,13,6,46,6,4,67
+Borussia Dortmund - Union Berlin 4:2,Germany. Bundesliga,9/19/21,RCMF3,94,92,61,66,0,0,0,0,0,0,58,51,88,1,1,100,0,0,0,6,4,67,26,9,35,2,0,0,3,10,2,20,10,6,60
+Beşiktaş - Borussia Dortmund 1:2,Europe. UEFA Champions League,9/15/21,"RAMF, RDMF",72,85,46,54,1,1,2,2,100,0.25,36,32,89,2,1,50,1,0,0,5,3,60,27,12,44,1,1,100,8,9,6,67,8,2,25
+Bayer Leverkusen - Borussia Dortmund 3:4,Germany. Bundesliga,9/11/21,RCMF3,92,71,39,55,0,0,0,0,0,0,30,28,93,0,0,0,0,0,0,3,3,100,23,8,35,1,1,100,6,13,7,54,2,1,50
+Borussia Dortmund - Hoffenheim 3:2,Germany. Bundesliga,8/27/21,RCMF3,74,78,48,62,1,1,1,1,100,0.05,40,34,85,0,0,0,1,0,0,6,5,83,22,13,59,1,1,100,6,8,2,25,3,2,67
+Freiburg - Borussia Dortmund 2:1,Germany. Bundesliga,8/21/21,"LCMF3, RCMF3",97,86,55,64,0,0,4,2,50,0.48,43,40,93,1,0,0,1,0,0,7,4,57,33,13,39,3,1,33,2,8,5,63,6,3,50
+Borussia Dortmund - Eintracht Frankfurt 5:2,Germany. Bundesliga,8/14/21,"LCMF3, RDMF",74,70,44,63,0,0,1,0,0,0.32,32,30,94,4,4,100,0,0,0,3,1,33,22,11,50,3,2,67,6,6,3,50,7,2,29
+Borussia Dortmund - Bayer Leverkusen 3:1,Germany. Bundesliga,5/22/21,RDMF,48,45,29,64,0,0,2,0,0,0.11,31,27,87,2,1,50,0,0,0,2,1,50,6,2,33,0,0,0,1,3,0,0,3,2,67
+Mainz 05 - Borussia Dortmund 1:3,Germany. Bundesliga,5/16/21,"LDMF, RDMF",87,78,51,65,0,0,2,0,0,0.18,54,47,87,4,3,75,0,0,0,2,0,0,14,4,29,2,1,50,3,12,2,17,6,6,100
+Wolfsburg - Borussia Dortmund 0:2,Germany. Bundesliga,4/24/21,RDMF,60,44,28,64,0,0,0,0,0,0,25,21,84,1,1,100,0,0,0,0,0,0,14,7,50,0,0,0,2,6,4,67,8,3,38
+Borussia Dortmund - Union Berlin 2:0,Germany. Bundesliga,4/21/21,"LCMF, RCMF",92,77,46,60,0,0,2,0,0,0.06,43,37,86,3,3,100,1,1,100,1,1,100,19,9,47,2,0,0,3,10,3,30,9,3,33
+Borussia Dortmund - Werder Bremen 4:1,Germany. Bundesliga,4/18/21,"RCMF, RDMF",94,93,60,65,0,0,2,1,50,0.4,51,45,88,2,2,100,1,0,0,0,0,0,28,12,43,3,2,67,1,9,0,0,8,4,50
+Borussia Dortmund - Manchester City 1:2,Europe. UEFA Champions League,4/14/21,RCMF,80,66,36,55,1,0,1,1,100,0.37,30,27,90,1,1,100,1,1,100,1,0,0,15,8,53,4,1,25,7,10,5,50,4,2,50
+Stuttgart - Borussia Dortmund 2:3,Germany. Bundesliga,4/10/21,"AMF, RCMF",81,63,41,65,1,0,5,1,20,0.39,35,31,89,1,1,100,0,0,0,3,2,67,18,9,50,4,2,50,0,8,1,13,4,3,75
+Manchester City - Borussia Dortmund 2:1,Europe. UEFA Champions League,4/6/21,RCMF,94,65,29,45,0,0,1,1,100,0.13,20,18,90,1,1,100,0,0,0,2,1,50,24,10,42,4,2,50,3,9,5,56,3,2,67
+Borussia Dortmund - Eintracht Frankfurt 1:2,Germany. Bundesliga,4/3/21,RCMF,58,74,41,55,0,0,0,0,0,0,38,28,74,1,1,100,3,0,0,4,2,50,27,12,44,3,2,67,6,8,1,13,9,5,56
+Köln - Borussia Dortmund 2:2,Germany. Bundesliga,3/20/21,"LCMF, RCMF",97,82,51,62,0,0,1,1,100,0.13,48,41,85,4,4,100,3,0,0,3,1,33,23,7,30,3,1,33,4,7,3,43,1,0,0
+Borussia Dortmund - Hertha BSC 2:0,Germany. Bundesliga,3/13/21,"LCMF3, RCMF3, RDMF",95,99,73,74,0,0,3,1,33,0.19,62,55,89,1,1,100,0,0,0,6,2,33,27,13,48,3,1,33,3,13,3,23,5,3,60
+Borussia Dortmund - Sevilla 2:2,Europe. UEFA Champions League,3/9/21,RCMF,99,98,38,39,0,0,1,0,0,0.18,22,18,82,1,0,0,0,0,0,9,3,33,39,17,44,9,3,33,6,17,9,53,11,5,45
+Bayern München - Borussia Dortmund 4:2,Germany. Bundesliga,3/6/21,LCMF,24,17,6,35,0,0,0,0,0,0,4,4,100,0,0,0,0,0,0,0,0,0,5,2,40,0,0,0,1,1,1,100,0,0,0
+Borussia Dortmund - Arminia Bielefeld 3:0,Germany. Bundesliga,2/27/21,"DMF, LCMF3, RCMF3",93,85,51,60,0,0,2,0,0,0.61,42,35,83,1,1,100,1,0,0,4,0,0,30,16,53,8,3,38,6,7,1,14,10,6,60
+Schalke 04 - Borussia Dortmund 0:4,Germany. Bundesliga,2/20/21,AMF,30,33,22,67,0,1,0,0,0,0,18,17,94,2,1,50,1,1,100,1,1,100,11,5,45,2,0,0,0,1,1,100,2,2,100
+Sevilla - Borussia Dortmund 2:3,Europe. UEFA Champions League,2/17/21,RCMF,96,62,31,50,0,0,1,1,100,0.04,31,24,77,1,0,0,0,0,0,0,0,0,9,5,56,1,0,0,3,7,2,29,2,0,0
+Borussia Dortmund - Hoffenheim 2:2,Germany. Bundesliga,2/13/21,LDMF,72,72,40,56,0,0,1,0,0,0.03,28,22,79,2,1,50,1,0,0,4,1,25,34,17,50,5,2,40,3,14,6,43,7,2,29
+Freiburg - Borussia Dortmund 2:1,Germany. Bundesliga,2/6/21,"AMF, RDMF",49,52,29,56,0,0,0,0,0,0,22,18,82,0,0,0,1,0,0,5,4,80,25,11,44,4,1,25,2,9,3,33,5,3,60
+Borussia Dortmund - Augsburg 3:1,Germany. Bundesliga,1/30/21,LDMF,20,23,11,48,0,0,0,0,0,0,8,7,88,1,0,0,0,0,0,1,0,0,9,3,33,1,1,100,3,6,0,0,1,1,100
+Borussia M'gladbach - Borussia Dortmund 4:2,Germany. Bundesliga,1/22/21,RDMF,83,67,41,61,0,0,1,0,0,0.18,37,27,73,2,1,50,2,0,0,2,2,100,19,14,74,4,4,100,5,11,6,55,8,3,38
+Bayer Leverkusen - Borussia Dortmund 2:1,Germany. Bundesliga,1/19/21,RDMF,84,50,32,64,0,0,0,0,0,0,34,27,79,4,4,100,0,0,0,2,1,50,12,5,42,2,0,0,4,5,2,40,3,1,33
+Borussia Dortmund - Mainz 05 1:1,Germany. Bundesliga,1/16/21,"LDMF, RDMF",64,84,62,74,0,0,3,0,0,0.25,48,43,90,3,1,33,0,0,0,3,2,67,23,17,74,4,4,100,2,10,2,20,5,2,40
+Union Berlin - Borussia Dortmund 2:1,Germany. Bundesliga,12/18/20,RDMF,14,15,7,47,0,0,0,0,0,0,5,5,100,0,0,0,0,0,0,1,1,100,8,2,25,4,1,25,2,3,1,33,4,1,25
+Werder Bremen - Borussia Dortmund 1:2,Germany. Bundesliga,12/15/20,RDMF,72,50,31,62,0,0,0,0,0,0,32,28,88,0,0,0,1,0,0,3,1,33,8,2,25,0,0,0,4,4,1,25,3,0,0
+Borussia Dortmund - Stuttgart 1:5,Germany. Bundesliga,12/12/20,RCMF,66,66,44,67,0,0,1,0,0,0.01,43,38,88,1,0,0,0,0,0,4,0,0,16,5,31,0,0,0,4,8,4,50,4,2,50
+Zenit - Borussia Dortmund 1:2,Europe. UEFA Champions League,12/8/20,"RB, RCMF3, RDMF",94,113,66,58,0,0,3,0,0,0.22,56,50,89,3,1,33,2,1,50,5,3,60,34,15,44,8,3,38,5,9,5,56,9,6,67
+Eintracht Frankfurt - Borussia Dortmund 1:1,Germany. Bundesliga,12/5/20,AMF,20,19,8,42,0,0,0,0,0,0,10,5,50,1,1,100,2,1,50,2,2,100,4,3,75,0,0,0,0,2,1,50,1,1,100
+Borussia Dortmund - Lazio 1:1,Europe. UEFA Champions League,12/2/20,RCMF3,87,118,77,65,0,0,2,1,50,0.11,65,57,88,3,0,0,1,1,100,6,3,50,29,18,62,4,1,25,7,16,9,56,7,1,14
+Borussia Dortmund - Club Brugge 3:0,Europe. UEFA Champions League,11/24/20,"LDMF, RDMF",93,97,72,74,0,0,0,0,0,0,64,56,88,7,6,86,2,0,0,8,7,88,26,16,62,4,1,25,9,7,2,29,12,8,67
+Hertha BSC - Borussia Dortmund 2:5,Germany. Bundesliga,11/21/20,RCMF,32,34,19,56,0,1,1,0,0,0.2,10,10,100,0,0,0,0,0,0,0,0,0,12,6,50,0,0,0,2,0,0,0,3,1,33
+Borussia Dortmund - Bayern München 2:3,Germany. Bundesliga,11/7/20,LDMF,37,54,35,65,0,0,1,1,100,0.17,30,26,87,2,0,0,1,1,100,1,1,100,15,8,53,5,2,40,1,5,1,20,4,3,75
+Club Brugge - Borussia Dortmund 0:3,Europe. UEFA Champions League,11/4/20,LDMF,21,23,19,83,0,0,0,0,0,0,14,14,100,1,1,100,0,0,0,1,1,100,8,5,63,0,0,0,1,2,1,50,2,0,0
+Arminia Bielefeld - Borussia Dortmund 0:2,Germany. Bundesliga,10/31/20,RDMF,94,150,110,73,0,0,3,2,67,0.33,110,96,87,6,3,50,5,1,20,3,2,67,19,10,53,1,0,0,5,15,4,27,13,9,69
+Borussia Dortmund - Zenit 2:0,Europe. UEFA Champions League,10/28/20,RAMF,10,14,11,79,0,1,0,0,0,0,9,9,100,0,0,0,0,0,0,2,0,0,4,1,25,2,1,50,0,2,0,0,1,1,100
+Lazio - Borussia Dortmund 3:1,Europe. UEFA Champions League,10/20/20,RCMF,46,47,37,79,0,0,0,0,0,0,32,28,88,0,0,0,0,0,0,1,1,100,12,8,67,1,0,0,2,8,3,38,5,3,60
+Hoffenheim - Borussia Dortmund 0:1,Germany. Bundesliga,10/17/20,RCMF,19,13,8,62,0,0,0,0,0,0,4,3,75,1,1,100,0,0,0,0,0,0,6,4,67,1,1,100,3,3,0,0,2,2,100
+Borussia Dortmund - Freiburg 4:0,Germany. Bundesliga,10/3/20,RCMF,71,101,71,70,0,0,1,0,0,0.03,57,51,89,2,2,100,2,2,100,9,6,67,29,19,66,1,0,0,2,11,2,18,9,5,56
+Augsburg - Borussia Dortmund 2:0,Germany. Bundesliga,9/26/20,RCMF,61,82,55,67,0,0,2,2,100,0.4,51,45,88,1,1,100,2,1,50,4,1,25,19,7,37,0,0,0,2,7,0,0,7,7,100
+Borussia Dortmund - Borussia M'gladbach 3:0,Germany. Bundesliga,9/19/20,RCMF,69,66,42,64,0,1,0,0,0,0,40,33,83,0,0,0,0,0,0,3,1,33,12,5,42,0,0,0,3,10,5,50,4,1,25

@@ -1,0 +1,14 @@
+﻿match,competition,date,position,minutes_played,total_actions,total_actions_successful,total_actions_percent,goals,assists,shots,shots_on_target,shots_percent,xG,passes,passes_accurate,passes_percent,long_passes,long_passes_accurate,long_passes_percent,crosses,crosses_accurate,crosses_percent,dribbles,dribbles_successful,dribbles_percent,duels_won,duels_won,duels_percent,aerial_duels,aerial_duels_won,aerial_duels_percent,interceptions,losses,losses_own_half,losses_percent,recoveries,recoveries_opp_half,recoveries_percent
+Deportivo Alavés - Real Madrid 0:1,Spain. LaLiga,12/21/23,RCB,46,33,31,94,0,0,0,0,0,0,26,26,100,2,2,100,0,0,0,0,0,0,2,2,100,0,0,0,2,2,2,100,1,1,100
+Real Madrid - Villarreal 4:1,Spain. LaLiga,12/17/23,LCMF,16,15,10,67,0,0,1,0,0,0.01,12,10,83,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2,2,1,50,4,3,75
+Barcelona - Real Madrid 1:2,Spain. LaLiga,10/28/23,"LCMF, RCMF",98,83,66,80,0,0,1,1,100,0.02,62,58,94,1,0,0,0,0,0,0,0,0,8,5,63,1,0,0,2,6,1,17,10,3,30
+Sevilla - Real Madrid 1:1,Spain. LaLiga,10/21/23,DMF,70,33,29,88,0,0,0,0,0,0,30,28,93,0,0,0,1,0,0,0,0,0,2,1,50,2,1,50,0,3,0,0,3,3,100
+Real Madrid - Osasuna 4:0,Spain. LaLiga,10/7/23,RCB,94,99,89,90,0,0,0,0,0,0,85,82,96,9,8,89,1,0,0,0,0,0,9,6,67,3,2,67,2,2,1,50,9,3,33
+Girona - Real Madrid 0:3,Spain. LaLiga,9/30/23,RCMF,103,74,54,73,1,0,1,1,100,0.13,49,45,92,1,0,0,0,0,0,2,1,50,17,8,47,1,1,100,6,6,5,83,7,2,29
+Real Madrid - Las Palmas 2:0,Spain. LaLiga,9/27/23,"DMF, LCMF, RCMF",96,78,58,74,0,0,3,0,0,0.04,61,54,89,5,1,20,1,0,0,1,0,0,11,4,36,0,0,0,2,7,0,0,4,1,25
+Atlético Madrid - Real Madrid 3:1,Spain. LaLiga,9/24/23,RDMF,40,43,34,79,0,0,2,0,0,0.36,31,27,87,2,2,100,3,0,0,0,0,0,8,6,75,2,2,100,4,4,0,0,8,3,38
+Real Madrid - Real Sociedad 2:1,Spain. LaLiga,9/17/23,DMF,64,42,33,79,0,0,1,0,0,0,32,31,97,1,1,100,1,1,100,0,0,0,6,2,33,0,0,0,3,3,0,0,1,0,0
+Real Madrid - Getafe 2:1,Spain. LaLiga,9/2/23,DMF,85,95,78,82,0,0,0,0,0,0,66,61,92,1,1,100,1,0,0,1,0,0,19,12,63,8,6,75,7,5,1,20,14,4,29
+Celta de Vigo - Real Madrid 0:1,Spain. LaLiga,8/25/23,DMF,67,84,72,86,0,0,0,0,0,0,64,62,97,0,0,0,2,1,50,2,2,100,13,7,54,2,1,50,4,6,1,17,10,5,50
+Almería - Real Madrid 1:3,Spain. LaLiga,8/19/23,"DMF, LCMF",106,103,85,83,0,0,2,1,50,0.06,72,69,96,2,2,100,1,0,0,2,2,100,22,14,64,5,4,80,3,5,1,20,12,6,50
+Athletic Bilbao - Real Madrid 0:2,Spain. LaLiga,8/12/23,"DMF, RCMF",99,72,65,90,0,0,0,0,0,0,59,56,95,1,1,100,0,0,0,0,0,0,9,7,78,2,2,100,7,5,2,40,10,4,40
